@@ -30,7 +30,7 @@ You can visit the live version of the project [here](https://my-expenses.online)
 ![Screenshot 1](view.PNG)  
 _Screenshot showing the dashboard overview._
 
-![Screenshot 2](path_to_screenshot_2.png)  
+![Screenshot 2](phone_.jpg)  
 _Screenshot showing the expense report page._
 
 ## Source Code
