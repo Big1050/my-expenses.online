@@ -27,7 +27,7 @@ I was responsible for the entire development of this project, from the backend l
 You can visit the live version of the project [here](https://my-expenses.online).
 
 ## Project Screenshots
-![Screenshot 1](path_to_screenshot_1.png)  
+![Screenshot 1](view.png)  
 _Screenshot showing the dashboard overview._
 
 ![Screenshot 2](path_to_screenshot_2.png)  
